@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "innovateSD",
-    "currentPage": "index.html",
+    "currentPage": "events.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -68,8 +68,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "#innovateSD | Home",
+        "meta_descr": "#innovateSD: a project by the San Diego County Office of Education to scale, support, and develop new opportunities for our schools, districts, and students",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -987,7 +987,7 @@
     "resources.html": {
       "settings": {
         "meta_descr": "Resources",
-        "title": "Resources",
+        "title": "#innovateSD | Resources",
         "order": 3
       },
       "components": [
@@ -1592,7 +1592,7 @@
     "partners.html": {
       "settings": {
         "meta_descr": "Partners",
-        "title": "Partners",
+        "title": "#innovateSD | Partners",
         "order": 4
       },
       "components": [
@@ -2321,7 +2321,7 @@
     "contact.html": {
       "settings": {
         "meta_descr": "Contact",
-        "title": "Contact",
+        "title": "#innovateSD | Contact",
         "order": 5
       },
       "components": [
@@ -2952,7 +2952,7 @@
     "events.html": {
       "settings": {
         "meta_descr": "Events",
-        "title": "Events",
+        "title": "#innovateSD | Events",
         "order": 6
       },
       "components": [
@@ -3547,7 +3547,7 @@
     "programs.html": {
       "settings": {
         "meta_descr": "Programs",
-        "title": "Programs",
+        "title": "#innovateSD | Programs",
         "order": 2
       },
       "components": [
@@ -4470,8 +4470,8 @@
     },
     "about.html": {
       "settings": {
-        "meta_descr": "About Us",
-        "title": "About",
+        "meta_descr": "",
+        "title": "#innovateSD | About",
         "order": 1
       },
       "components": [
