@@ -1,5 +1,4 @@
-!function(){try{document.getElementsByClassName("engine")[0].getElementsByTagName("a")[0].removeAttribute("rel")}catch(b){}if(!document.getElementById("top-1")){var a=document.createElement("section");a.id="top-1";a.className="engine";a.innerHTML='<a href="https://mobiri.se">Mobirise</a> Mobirise v4.7.6';document.body.insertBefore(a,document.body.childNodes[0])}}();
-(function($) {
+undefined(function($) {
 
     var isBuilder = $('html').hasClass('is-builder');
 
