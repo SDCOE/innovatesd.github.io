@@ -43,7 +43,7 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-120233607-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-120233607-1');\r\n</script>",
     "siteUrl": "https://www.innovatesd.org",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 103,
+    "uniqCompNum": 110,
     "versionPublish": "4.7.8",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -994,7 +994,7 @@
       "settings": {
         "meta_descr": "Resources",
         "title": "#innovateSD | Resources",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1599,7 +1599,7 @@
       "settings": {
         "meta_descr": "Partners",
         "title": "#innovateSD | Partners",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -2328,7 +2328,7 @@
       "settings": {
         "meta_descr": "Contact",
         "title": "#innovateSD | Contact",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -2959,7 +2959,7 @@
       "settings": {
         "meta_descr": "Events",
         "title": "#innovateSD | Events",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -3554,7 +3554,7 @@
       "settings": {
         "meta_descr": "Programs",
         "title": "#innovateSD | Programs",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -4478,7 +4478,7 @@
       "settings": {
         "meta_descr": "",
         "title": "#innovateSD | About",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
