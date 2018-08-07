@@ -1,4 +1,4 @@
-(function($) {
+undefined(function($) {
 
     var isBuilder = $('html').hasClass('is-builder');
 
@@ -1002,4 +1002,3 @@
         }
     }
 })(jQuery);
-undefined
