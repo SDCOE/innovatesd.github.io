@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "innovateSD",
-    "currentPage": "events.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -70,7 +70,7 @@
     "sitemapSwitcher": "on",
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
     "publishType": "local",
-    "publishPath": "@PROJECT_PATH@innovatesd.github.io"
+    "publishPath": "file:///Users/mgonzalez/Documents/GitHub/innovatesd.github.io"
   },
   "pages": {
     "index.html": {
