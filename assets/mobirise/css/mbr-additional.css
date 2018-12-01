@@ -5199,48 +5199,95 @@ body {
   flex-direction: column;
   -webkit-flex-direction: column;
 }
-.cid-raVhvLArSH {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-raXyi6TMHr {
+  padding-top: 60px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/00-ipad2-1-2000x1333.jpg");
 }
-.cid-raVhvLArSH .mbr-section-subtitle {
-  color: #767676;
+.cid-raXyi6TMHr .testimonials-container {
+  margin: 0 auto;
 }
-.cid-raVhvLArSH .media-row {
-  display: -webkit-flex;
+.cid-raXyi6TMHr .testimonials-container .testimonials-item {
   justify-content: center;
+  margin-top: 3rem;
   -webkit-justify-content: center;
 }
-.cid-raVhvLArSH .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
+.cid-raXyi6TMHr .testimonials-container .testimonials-item .user {
+  background: #ffffff;
 }
-.cid-raVhvLArSH .team-item .item-image img {
+.cid-raXyi6TMHr .testimonials-container .testimonials-item .user.row {
+  margin: 0;
+}
+.cid-raXyi6TMHr .testimonials-container .testimonials-item .user .user_image {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  margin: 2rem auto 2rem auto;
+}
+.cid-raXyi6TMHr .testimonials-container .testimonials-item .user .user_image img {
   width: 100%;
+  min-width: 100%;
+  min-height: 100%;
 }
-.cid-raVhvLArSH .team-item .item-name p {
-  margin-bottom: 0;
+.cid-raXyi6TMHr .testimonials-container .testimonials-item .user .testimonials-caption {
+  padding: 2rem;
+  padding: 2rem 2rem 2rem 0;
 }
-.cid-raVhvLArSH .team-item .item-role p {
-  margin-bottom: 0;
+@media (max-width: 260px) {
+  .cid-raXyi6TMHr .user_image {
+    width: 100% !important;
+    height: auto !important;
+  }
 }
-.cid-raVhvLArSH .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
+@media (max-width: 767px) {
+  .cid-raXyi6TMHr .testimonials-caption {
+    padding: 0 2rem 2rem 2rem !important;
+  }
+}
+.cid-raXAxblL0o {
+  padding-top: 15px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/00-ipad2-1-2000x1333.jpg");
+}
+.cid-raXAxblL0o .testimonials-container {
+  margin: 0 auto;
+}
+.cid-raXAxblL0o .testimonials-container .testimonials-item {
   justify-content: center;
-  -webkit-flex-wrap: wrap;
+  margin-top: 3rem;
   -webkit-justify-content: center;
 }
-.cid-raVhvLArSH .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
+.cid-raXAxblL0o .testimonials-container .testimonials-item .user {
+  background: #ffffff;
 }
-.cid-raVhvLArSH .team-item .item-caption {
-  background: #efefef;
+.cid-raXAxblL0o .testimonials-container .testimonials-item .user.row {
+  margin: 0;
 }
-.cid-raVhvLArSH H2 {
-  color: #ffffff;
+.cid-raXAxblL0o .testimonials-container .testimonials-item .user .user_image {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  margin: 2rem auto 2rem auto;
+}
+.cid-raXAxblL0o .testimonials-container .testimonials-item .user .user_image img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-raXAxblL0o .testimonials-container .testimonials-item .user .testimonials-caption {
+  padding: 2rem;
+  padding: 2rem 2rem 2rem 0;
+}
+@media (max-width: 260px) {
+  .cid-raXAxblL0o .user_image {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+@media (max-width: 767px) {
+  .cid-raXAxblL0o .testimonials-caption {
+    padding: 0 2rem 2rem 2rem !important;
+  }
 }
 .cid-qRIc35awCe .navbar {
   background: #ffffff;
@@ -5622,166 +5669,6 @@ body {
 .cid-qRIc35awCe .nav-link:hover,
 .cid-qRIc35awCe .dropdown-item:hover {
   color: #767676 !important;
-}
-.cid-raVhFUEhlc {
-  padding-top: 0px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/00-ipad2-2-2000x1333.jpg");
-}
-.cid-raVhFUEhlc .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-raVhFUEhlc .media-row {
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-raVhFUEhlc .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-raVhFUEhlc .team-item .item-image img {
-  width: 100%;
-}
-.cid-raVhFUEhlc .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-raVhFUEhlc .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-raVhFUEhlc .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
-}
-.cid-raVhFUEhlc .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-raVhFUEhlc .team-item .item-caption {
-  background: #efefef;
-}
-.cid-raVhGpTXxN {
-  padding-top: 0px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/00-ipad2-2-2000x1333.jpg");
-}
-.cid-raVhGpTXxN .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-raVhGpTXxN .media-row {
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-raVhGpTXxN .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-raVhGpTXxN .team-item .item-image img {
-  width: 100%;
-}
-.cid-raVhGpTXxN .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-raVhGpTXxN .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-raVhGpTXxN .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
-}
-.cid-raVhGpTXxN .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-raVhGpTXxN .team-item .item-caption {
-  background: #efefef;
-}
-.cid-raVhHe6nJ4 {
-  padding-top: 0px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/00-ipad2-2-2000x1333.jpg");
-}
-.cid-raVhHe6nJ4 .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-raVhHe6nJ4 .media-row {
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-raVhHe6nJ4 .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-raVhHe6nJ4 .team-item .item-image img {
-  width: 100%;
-}
-.cid-raVhHe6nJ4 .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-raVhHe6nJ4 .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-raVhHe6nJ4 .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
-}
-.cid-raVhHe6nJ4 .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-raVhHe6nJ4 .team-item .item-caption {
-  background: #efefef;
-}
-.cid-raVhIcL7P0 {
-  padding-top: 0px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/00-ipad2-2-2000x1333.jpg");
-}
-.cid-raVhIcL7P0 .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-raVhIcL7P0 .media-row {
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-raVhIcL7P0 .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-raVhIcL7P0 .team-item .item-image img {
-  width: 100%;
-}
-.cid-raVhIcL7P0 .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-raVhIcL7P0 .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-raVhIcL7P0 .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
-}
-.cid-raVhIcL7P0 .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-raVhIcL7P0 .team-item .item-caption {
-  background: #efefef;
 }
 .cid-qRIIIIusNX {
   padding-top: 30px;
