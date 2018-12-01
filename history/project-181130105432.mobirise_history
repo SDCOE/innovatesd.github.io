@@ -68,9 +68,7 @@
       }
     ],
     "sitemapSwitcher": "on",
-    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
-    "publishType": "local",
-    "publishPath": "file:///Users/mgonzalez/Documents/GitHub/innovatesd.github.io"
+    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
   },
   "pages": {
     "index.html": {
