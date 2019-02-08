@@ -44,7 +44,7 @@
     "siteUrl": "https://www.innovatesd.org",
     "versionFirst": "4.7.2",
     "uniqCompNum": 168,
-    "versionPublish": "4.8.10",
+    "versionPublish": "4.9.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -802,7 +802,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/students-on-computers-grade-5-1-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -820,7 +820,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-11-19-at-2.34.59-pm-1008x453.png",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -836,6 +836,24 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-info\" href=\"https://summit.innovatesd.org\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISIT OUR EVENT PAGE</a>",
                 "overlayOpacity": "0.7",
                 "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-02-08%20at%2010.56.19%20am-1678x1452.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Get MESI With Us!<br>Feb. 28",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Join us for a free, virtual conference with drop-in sessions planned throughout the day. Sign-in from any computer, ask questions or just follow along. Sign-up info with guest speakers coming soon!",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://live.innovatesd.org\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISIT OUR EVENT SITE</a> ",
+                "overlayOpacity": "0.5"
               }
             ]
           }
