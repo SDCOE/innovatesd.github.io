@@ -68,7 +68,9 @@
       }
     ],
     "sitemapSwitcher": "on",
-    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "publishType": "local",
+    "publishPath": "file:///Users/mgonzalez/Documents/GitHub/innovatesd.github.io"
   },
   "pages": {
     "index.html": {
@@ -836,7 +838,7 @@
                 "overlayColor": "#000000"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-08-at-10.56.19-am-1678x1452.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-02-08%20at%2010.56.19%20am-1678x1452.png",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
