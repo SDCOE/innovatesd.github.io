@@ -1,1 +1,0 @@
-# innovatesd.github.io
