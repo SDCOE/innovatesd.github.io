@@ -744,24 +744,6 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/fortnite-4129124-1920-1920x1278.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "eSports",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "ESports offers serious team competition for students in San Diego County.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://esports.innovatesd.org\" data-toolbar=\"-mbrBtnMove\">LEARN MORE ABOUT eSports</a>",
-                "overlayOpacity": "0.5"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/26-del-lago-academy-2000x1333.png",
                 "active": false,
                 "showButtons": true,
@@ -799,7 +781,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/teacher-collaboration-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -836,7 +818,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-08-at-10.56.19-am-1678x1452.png",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
