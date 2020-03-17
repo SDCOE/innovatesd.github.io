@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "innovateSD",
-    "currentPage": "index.html",
+    "currentPage": "events.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -37,14 +37,14 @@
         "#00adee"
       ]
     },
-    "favicon": false,
+    "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": false,
+    "cookiesAlert": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-120233607-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-120233607-1');\r\n</script>",
     "siteUrl": "https://www.innovatesd.org",
     "versionFirst": "4.7.2",
     "uniqCompNum": 182,
-    "versionPublish": "4.12.3",
+    "versionPublish": "4.10.15",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -73,8 +73,7 @@
       "colorLink": "#149dcc",
       "underlineLink": false,
       "text": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    },
-    "imageResize": false
+    }
   },
   "pages": {
     "index.html": {
@@ -745,30 +744,10 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": "true",
+            "slides__autoplay": true,
             "slides__autoplayInterval": "7000",
             "slides__showBullets": true,
             "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/migrant-education-summer-academy-29.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "Share. Play. Listen. Explore.",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "The new Covid-19 SDCOE website has resources for educators and administrators to support Distance Learning and Health Practices. ",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://covid-19.sdcoe.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Covid-19 SDCOE Website</a>",
-                "overlayOpacity": "0.4",
-                "overlayColor": "#000000",
-                "textTitle": "Latest on Covid-19"
-              },
               {
                 "image": "@PROJECT_PATH@/assets/images/fortnite-4129124-1920-1920x1278.jpg",
                 "active": false,
@@ -783,10 +762,9 @@
                 "title": "eSports",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "ESports offers serious team competition for students in San Diego County.<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"https://esports.innovatesd.org/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More about eSports</a> ",
-                "overlayOpacity": "0.5",
-                "textTitle": "eSports"
+                "text": "ESports offers serious team competition for students in San Diego County.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://esports.innovatesd.org\" data-toolbar=\"-mbrBtnMove\">LEARN MORE ABOUT eSports</a>",
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/26-del-lago-academy-2000x1333.png",
@@ -802,10 +780,9 @@
                 "title": "#innovateSD",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "a project by the <a href=\"https://www.sdcoe.net/Pages/Home.aspx\">San Diego County Office of Education</a> to scale, support, and develop new opportunities for our schools, districts, and students.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://www.innovatesd.org/index.html#content4-a\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a> ",
-                "overlayOpacity": "0.5",
-                "textTitle": "#innovateSD"
+                "text": "a project by the <a href=\"http://www.sdcoe.net\" class=\"text-info\">San Diego County Office of Education</a> to scale, support, and develop new opportunities for our schools, districts, and students",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"index.html#content4-a\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/frank-mckenna-222542-unsplash-2000x1331.jpg",
@@ -822,9 +799,27 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "We enable, support, and inspire innovative solutions to advance student learning, teaching, and research in our San Diego educational community.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://www.innovatesd.org/partners.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Partner With Us</a> ",
-                "overlayOpacity": "0.5",
-                "textTitle": "ideas = IMPACT"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"partners.html\" data-toolbar=\"-mbrBtnMove\">PARTNER WITH US</a> ",
+                "overlayOpacity": "0.5"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/teacher-collaboration-2000x1333.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Share. Play. Listen. Explore.",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Collaborate with San Diego educators, students, leaders, and industry partners",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-info\" href=\"events.html\" data-toolbar=\"-mbrBtnMove\">ATTEND AN SDCOE EVENT</a>",
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/students-on-computers-grade-5-1-2000x1333.jpg",
@@ -840,14 +835,13 @@
                 "title": "#innovateSD Online Summit",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "This free online virtual summit originally aired on November 1, 2018 was designed to inspire and educate you about new programs and tools and help you develop the skills to launch, deploy or implement in your class, school, or organization.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-info\" href=\"https://live.innovatesd.org/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit Our Event Site</a>",
-                "overlayOpacity": "0.5",
-                "textTitle": "#innovateSD Online Summit"
+                "text": "This <b>free online virtual summit</b> originally aired on <b>November 1, 2018</b> was designed to inspire and educate you about new programs and tools and help you develop the skills to launch, deploy or implement in your class, school, or organization.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://live.innovatesd.org\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISIT OUR EVENT SITE</a> ",
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-08-at-10.56.19-am-1678x1452.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -861,11 +855,10 @@
                 "contentAlign": "center",
                 "text": "Making | Entrepreneurship | STEAM | Inventing<br><br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://mesi.innovatesd.org/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE ABOUT MESI</a>",
-                "overlayOpacity": "0.5",
-                "textTitle": "MESI"
+                "overlayOpacity": "0.5"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/teacher-collaboration-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-04-11-at-9.24.00-am-1526x466.png",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -875,14 +868,12 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "Share. Play. Listen. Explore.",
+                "title": "<b>EdInnovateLive 2019: July 28-30</b>",
                 "overlay": true,
-                "contentAlign": "right",
-                "text": "Collaborate with San Diego educators, students, leaders, and industry partners",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-info\" href=\"events.html\" data-toolbar=\"-mbrBtnMove\">ATTEND AN SDCOE EVENT</a>",
-                "overlayOpacity": "0.4",
-                "overlayColor": "#000000",
-                "textTitle": "Share. Play. Listen. Explore."
+                "contentAlign": "center",
+                "text": "Network with leading educational innovators. Get inspired by engaging keynote speakers representing leading education changemakers and researchers. Participate in informative breakout sessions and our Ignite Talks. Experience hands-on interactive workshops and explore new learning technologies in our innovation zone!<br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://www.edinnovatelive.org/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISIT THE EVENT SITE</a> ",
+                "overlayOpacity": "0.5"
               }
             ]
           }
@@ -3531,11 +3522,11 @@
           "_name": "services5",
           "_customHTML": "<section class=\"services5\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n    <!---->\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"3\">\n        <!---->\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"color\" title=\"Color Border\" name=\"colorBorder\" value=\"#efefef\">\n        <!---->\n        <input type=\"checkbox\" title=\"Show Title Cards\" name=\"showTitleCard\" checked>\n        <input type=\"checkbox\" title=\"Show Text Cards\" name=\"showText\" checked>\n        <input type=\"color\" title=\"Cards Bg\" name=\"cardsBg\" value=\"#ffffff\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n            <option value=\"7\">7</option>\n            <option value=\"8\">8</option>\n            <option value=\"9\">9</option>\n            <option value=\"10\">10</option>\n            <option value=\"11\">11</option>\n            <option value=\"12\">12</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background2.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#cebfaf\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    <!---->\n    <!--Overlay-->\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <!--Container-->\n    <div class=\"container\">\n        <div class=\"row\" mbr-cards=\"bootstrap\">\n            <!--Titles-->\n            <div class=\"title pb-5 col-12\">\n                <h2 mbr-if=\"showTitle\" class=\"align-left mbr-fonts-style m-0\" mbr-theme-style=\"display-5\"><b>Upcoming Professional Learning Opportunities &amp; Events</b></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Subtitle\n                </h3>\n            </div>\n            <!--Card-1-->\n            <div class=\"card px-3 col-12\">\n                <div class=\"card-wrapper media-container-row media-container-row\">\n                    <div class=\"card-box\">\n                        <div class=\"top-line pb-3\" mbr-if=\"showTitleCard\">\n                            <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".card-title\">Learning and Innovation Summit</h4>\n                            <p class=\"mbr-text cost mbr-fonts-style m-0\" mbr-theme-style=\"display-5\" data-app-selector=\".cost\"><a href=\"https://summit2020.innovatesd.org/\" target=\"_blank\">More Information</a></p>\n                        </div>\n                        <div class=\"bottom-line\">\n                            <p class=\"mbr-text mbr-fonts-style m-0 b-descr\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".b-descr\">February 8, 2020 (San Diego County Office of Education)</p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <!--Card-2-->\n            <div class=\"card px-3 col-12\" mbr-if=\"cardsAmount > 1\">\n                <div class=\"card-wrapper media-container-row media-container-row\">\n                    <div class=\"card-box\">\n                        <div class=\"top-line pb-3\" mbr-if=\"showTitleCard\">\n                            <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".card-title\">League of Legends eSports Tournament</h4>\n                            <p class=\"mbr-text cost mbr-fonts-style m-0\" mbr-theme-style=\"display-5\" data-app-selector=\".cost\"><a href=\"https://esports.innovatesd.org/page3.html\" target=\"_blank\">More Information</a></p>\n                        </div>\n                        <div class=\"bottom-line\">\n                            <p class=\"mbr-text mbr-fonts-style m-0 b-descr\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".b-descr\">November 22, 2019 (Fashion Valley Microsoft Store)\n                            </p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <!--Card-3-->\n            <div class=\"card px-3 col-12\" mbr-if=\"cardsAmount > 2\">\n                <div class=\"card-wrapper media-container-row media-container-row\">\n                    <div class=\"card-box\">\n                        <div class=\"top-line pb-3\" mbr-if=\"showTitleCard\">\n                            <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".card-title\">Change Today, Save Tomorrow! <br>Environmental Innovation Design Challenge &amp; Showcase</h4>\n                            <p class=\"mbr-text cost mbr-fonts-style m-0\" mbr-theme-style=\"display-5\" data-app-selector=\".cost\"><a href=\"https://www.sdcoe.net/innovation/cte/Documents/Change%20Today%20Save%20Tomorrow.pdf\" target=\"_blank\">More Information</a></p>\n                        </div>\n                        <div class=\"bottom-line\">\n                            <p class=\"mbr-text mbr-fonts-style m-0 b-descr\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".b-descr\">\n                                Application due November 15\n                            </p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <!--Card-4-->\n            <div class=\"card px-3 col-12\" mbr-if=\"cardsAmount > 3\">\n                <div class=\"card-wrapper media-container-row media-container-row\">\n                    <div class=\"card-box\">\n                        <div class=\"top-line pb-3\" mbr-if=\"showTitleCard\">\n                            <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".card-title\">\n                                Watch 4\n                            </h4>\n                            <p class=\"mbr-text cost mbr-fonts-style m-0\" mbr-theme-style=\"display-5\" data-app-selector=\".cost\">\n                                $700\n                            </p>\n                        </div>\n                        <div class=\"bottom-line\">\n                            <p class=\"mbr-text mbr-fonts-style m-0 b-descr\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".b-descr\">\n                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, odit?\n                            </p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <!--Card-5-->\n            <div class=\"card px-3 col-12\" mbr-if=\"cardsAmount > 4\">\n                <div class=\"card-wrapper media-container-row media-container-row\">\n                    <div class=\"card-box\">\n                        <div class=\"top-line pb-3\" mbr-if=\"showTitleCard\">\n                            <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".card-title\">\n                                Watch 5\n                            </h4>\n                            <p class=\"mbr-text cost mbr-fonts-style m-0\" mbr-theme-style=\"display-5\" data-app-selector=\".cost\">\n                                $800\n                            </p>\n                        </div>\n                        <div class=\"bottom-line\">\n                            <p class=\"mbr-text mbr-fonts-style m-0 b-descr\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".b-descr\">\n                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, odit?\n                            </p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <!--Card-6-->\n            <div class=\"card px-3 col-12\" mbr-if=\"cardsAmount > 5\">\n                <div class=\"card-wrapper media-container-row media-container-row\">\n                    <div class=\"card-box\">\n                        <div class=\"top-line pb-3\" mbr-if=\"showTitleCard\">\n                            <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".card-title\">\n                                Watch 6\n                            </h4>\n                            <p class=\"mbr-text cost mbr-fonts-style m-0\" mbr-theme-style=\"display-5\" data-app-selector=\".cost\">\n                                $900\n                            </p>\n                        </div>\n                        <div class=\"bottom-line\">\n                            <p class=\"mbr-text mbr-fonts-style m-0 b-descr\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".b-descr\">\n                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, odit?\n                            </p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <!--Card-7-->\n            <div class=\"card px-3 col-12\" mbr-if=\"cardsAmount > 6\">\n                <div class=\"card-wrapper media-container-row media-container-row\">\n                    <div class=\"card-box\">\n                        <div class=\"top-line pb-3\" mbr-if=\"showTitleCard\">\n                            <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".card-title\">\n                                Watch 7\n                            </h4>\n                            <p class=\"mbr-text cost mbr-fonts-style m-0\" mbr-theme-style=\"display-5\" data-app-selector=\".cost\">\n                                $400\n                            </p>\n                        </div>\n                        <div class=\"bottom-line\">\n                            <p class=\"mbr-text mbr-fonts-style m-0 b-descr\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".b-descr\">\n                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, odit?\n                            </p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <!--Card-8-->\n            <div class=\"card px-3 col-12\" mbr-if=\"cardsAmount > 7\">\n                <div class=\"card-wrapper media-container-row media-container-row\">\n                    <div class=\"card-box\">\n                        <div class=\"top-line pb-3\" mbr-if=\"showTitleCard\">\n                            <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".card-title\">\n                                Watch 8\n                            </h4>\n                            <p class=\"mbr-text cost mbr-fonts-style m-0\" mbr-theme-style=\"display-5\" data-app-selector=\".cost\">\n                                $500\n                            </p>\n                        </div>\n                        <div class=\"bottom-line\">\n                            <p class=\"mbr-text mbr-fonts-style m-0 b-descr\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".b-descr\">\n                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, odit?\n                            </p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <!--Card-9-->\n            <div class=\"card px-3 col-12\" mbr-if=\"cardsAmount > 8\">\n                <div class=\"card-wrapper media-container-row media-container-row\">\n                    <div class=\"card-box\">\n                        <div class=\"top-line pb-3\" mbr-if=\"showTitleCard\">\n                            <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".card-title\">\n                                Watch 9\n                            </h4>\n                            <p class=\"mbr-text cost mbr-fonts-style m-0\" mbr-theme-style=\"display-5\" data-app-selector=\".cost\">\n                                $600\n                            </p>\n                        </div>\n                        <div class=\"bottom-line\">\n                            <p class=\"mbr-text mbr-fonts-style m-0 b-descr\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".b-descr\">\n                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, odit?\n                            </p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <!--Card-10-->\n            <div class=\"card px-3 col-12\" mbr-if=\"cardsAmount > 9\">\n                <div class=\"card-wrapper media-container-row media-container-row\">\n                    <div class=\"card-box\">\n                        <div class=\"top-line pb-3\" mbr-if=\"showTitleCard\">\n                            <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".card-title\">\n                                Watch 10\n                            </h4>\n                            <p class=\"mbr-text cost mbr-fonts-style m-0\" mbr-theme-style=\"display-5\" data-app-selector=\".cost\">\n                                $700\n                            </p>\n                        </div>\n                        <div class=\"bottom-line\">\n                            <p class=\"mbr-text mbr-fonts-style m-0 b-descr\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".b-descr\">\n                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, odit?\n                            </p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <!--Card-11-->\n            <div class=\"card px-3 col-12\" mbr-if=\"cardsAmount > 10\">\n                <div class=\"card-wrapper media-container-row media-container-row\">\n                    <div class=\"card-box\">\n                        <div class=\"top-line pb-3\" mbr-if=\"showTitleCard\">\n                            <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".card-title\">\n                                Watch 11\n                            </h4>\n                            <p class=\"mbr-text cost mbr-fonts-style m-0\" mbr-theme-style=\"display-5\" data-app-selector=\".cost\">\n                                $800\n                            </p>\n                        </div>\n                        <div class=\"bottom-line\">\n                            <p class=\"mbr-text mbr-fonts-style m-0 b-descr\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".b-descr\">\n                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, odit?\n                            </p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <!--Card-12-->\n            <div class=\"card px-3 col-12\" mbr-if=\"cardsAmount > 11\">\n                <div class=\"card-wrapper media-container-row media-container-row\">\n                    <div class=\"card-box\">\n                        <div class=\"top-line pb-3\" mbr-if=\"showTitleCard\">\n                            <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".card-title\">\n                                Watch 12\n                            </h4>\n                            <p class=\"mbr-text cost mbr-fonts-style m-0\" mbr-theme-style=\"display-5\" data-app-selector=\".cost\">\n                                $900\n                            </p>\n                        </div>\n                        <div class=\"bottom-line\">\n                            <p class=\"mbr-text mbr-fonts-style m-0 b-descr\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".b-descr\">\n                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, odit?\n                            </p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rEl8HLj3LQ",
-          "_anchor": "services5-4w",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "services5-4w"
         },
         {
           "_styles": {
