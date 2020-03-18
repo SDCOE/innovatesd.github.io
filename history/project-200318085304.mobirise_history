@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "innovateSD",
-    "currentPage": "index.html",
+    "currentPage": "events.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,8 +43,8 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-120233607-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-120233607-1');\r\n</script>",
     "siteUrl": "https://www.innovatesd.org",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 189,
-    "versionPublish": "4.11.6",
+    "uniqCompNum": 183,
+    "versionPublish": "4.12.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -750,8 +750,8 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/1280px-2019-ncov-cdc-23312-without-background-1280x1285.png",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/migrant-education-summer-academy-29.jpg",
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -763,11 +763,11 @@
                 "title": "Share. Play. Listen. Explore.",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "The new <a href=\"https://covid-19.sdcoe.net/\" target=\"_blank\">COVID-19 SDCOE website</a> has resources for educators and administrators to support Distance Learning and Health Practices. ",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://covid-19.sdcoe.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">COVID-19 SDCOE Website</a>",
+                "text": "The new Covid-19 SDCOE website has resources for educators and administrators to support Distance Learning and Health Practices. ",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://covid-19.sdcoe.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Covid-19 SDCOE Website</a>",
                 "overlayOpacity": "0.4",
                 "overlayColor": "#000000",
-                "textTitle": "Latest on COVID-19"
+                "textTitle": "Latest on Covid-19"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/fortnite-4129124-1920-1920x1278.jpg",
@@ -784,7 +784,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "ESports offers serious team competition for students in San Diego County.<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"https://esports.innovatesd.org/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE ABOUT ESPORTS</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" href=\"https://esports.innovatesd.org/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More about eSports</a> ",
                 "overlayOpacity": "0.5",
                 "textTitle": "eSports"
               },
@@ -803,7 +803,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "a project by the <a href=\"https://www.sdcoe.net/Pages/Home.aspx\">San Diego County Office of Education</a> to scale, support, and develop new opportunities for our schools, districts, and students.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://www.innovatesd.org/index.html#content4-a\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://www.innovatesd.org/index.html#content4-a\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a> ",
                 "overlayOpacity": "0.5",
                 "textTitle": "#innovateSD"
               },
@@ -822,13 +822,32 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "We enable, support, and inspire innovative solutions to advance student learning, teaching, and research in our San Diego educational community.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://www.innovatesd.org/partners.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PARTNER WITH US</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://www.innovatesd.org/partners.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Partner With Us</a> ",
                 "overlayOpacity": "0.5",
                 "textTitle": "ideas = IMPACT"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-08-at-10.56.19-am-1678x1452.png",
+                "image": "@PROJECT_PATH@/assets/images/students-on-computers-grade-5-1-2000x1333.jpg",
                 "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "#innovateSD Online Summit",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "This free online virtual summit originally aired on November 1, 2018 was designed to inspire and educate you about new programs and tools and help you develop the skills to launch, deploy or implement in your class, school, or organization.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-info\" href=\"https://live.innovatesd.org/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Visit Our Event Site</a>",
+                "overlayOpacity": "0.5",
+                "textTitle": "#innovateSD Online Summit"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-08-at-10.56.19-am-1678x1452.png",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -840,8 +859,8 @@
                 "title": "MESI",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Making | Entrepreneurship | STEAM | Inventing<br>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-info\" href=\"https://mesi.innovatesd.org/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE ABOUT MESI</a>",
+                "text": "Making | Entrepreneurship | STEAM | Inventing<br><br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://mesi.innovatesd.org/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE ABOUT MESI</a>",
                 "overlayOpacity": "0.5",
                 "textTitle": "MESI"
               },
@@ -859,8 +878,8 @@
                 "title": "Share. Play. Listen. Explore.",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Collaborate with San Diego educators, students, leaders, and industry partners<br>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"events.html\" data-toolbar=\"-mbrBtnMove\">ATTEND AN SDCOE EVENT</a>",
+                "text": "Collaborate with San Diego educators, students, leaders, and industry partners",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-info\" href=\"events.html\" data-toolbar=\"-mbrBtnMove\">ATTEND AN SDCOE EVENT</a>",
                 "overlayOpacity": "0.4",
                 "overlayColor": "#000000",
                 "textTitle": "Share. Play. Listen. Explore."
@@ -3445,19 +3464,21 @@
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-section-subtitle": {
-              "color": "#767676"
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
             }
           },
-          "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Events</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Join us for one of our events and workshops, or take a look at some of our upcoming opportunities offered through our division.</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rTBzeNdcCv",
+          "_name": "content5",
+          "_customHTML": "<section class=\"mbr-section content5\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpeg\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#0f7699\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center mbr-bold mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                    Innovation&nbsp;</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\"></h3>\n                <p class=\"mbr-text align-center mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-if=\"showText\" mbr-article data-multiline>\n                    Shape your future web project with sharp design and refine coded functions\n                </p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-white-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rEkODrG7Hu",
+          "_anchor": "content5-4r",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-58"
+          "_params": {}
         },
         {
           "alias": false,
@@ -3472,11 +3493,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><b>Professional Learning Opportunities and Events</b><div><br></div><div>Join us for one of our workshops, or take a look at upcoming opportunities throughout the region.</div><div>If you are looking for information from a previous workshop, you may find it on our <a href=\"https://www.sdcoe.net/innovation/cte/Pages/Workshop-Resources.aspx\" target=\"_blank\">Workshop Resources page</a>.&nbsp;</div><div><br></div><div><br></div><div><b>For Educators</b></div><div><br></div><div><a href=\"https://covid-19.sdcoe.net/Distance-Learning\">SDCOE COVID-19 Distance Learners Resources</a></div><div><br></div><div><i>Work-Based Learning Workshops</i></div><div><i><br></i></div><div>Learn new strategies to incorporate industry into your classroom experience, enhance student essential skills, and join our list of educators who can make requests for industry needs.</div><div><span style=\"font-size: 1rem;\"><br></span></div><div><span style=\"font-size: 1rem;\">Contact <a href=\"mailto:alexander.becker@sdcoe.net\">Alex Becker </a>to schedule a district or site work-based learning training.&nbsp;</span></div><div><span style=\"font-size: 1rem;\"><br></span></div><div><br></div><div><b><span style=\"font-size: 1rem;\">Ongoing Opportunities</span></b></div><div><br></div><div>The Fleet Science Center is offering after school and Saturday <a href=\"https://www.rhfleet.org/learn/school-programs-professional-development\">Teacher Professional Development </a>free of charge! You can also join their Teacher Partner Program for free admission and access to other great opportunities.</div><div><br></div><div><a href=\"https://www.sdge.com/energy-innovation-center\">The SDG&amp;E Energy Innovation Center</a> has amazing free workshops designed for industry and they are a perfect fit for many CTE teachers across sectors! Some great sessions coming up include Sustainable Strategies for Business, LEED Green Associate Training, Build a Better Burger with a focus on commercial kitchens, and more. You can also bring your students on a tour! Let us know if you're interested and we can help get you set up.&nbsp;</div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rTx8mu85S7",
-          "_anchor": "content1-52",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "content1-52"
         },
         {
           "_styles": {
