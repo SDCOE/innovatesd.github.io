@@ -74,7 +74,9 @@
       "underlineLink": false,
       "text": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "imageResize": false
+    "imageResize": false,
+    "publishType": "local",
+    "publishPath": "file:///Users/patrick.gittis/Documents/GitHub/innovatesd.github.io"
   },
   "pages": {
     "index.html": {
